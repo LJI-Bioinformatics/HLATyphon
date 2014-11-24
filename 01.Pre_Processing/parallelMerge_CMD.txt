@@ -1,0 +1,3 @@
+cd /Bioinformatics/Users/zfu/HLA_Typing/src/HLA_Typing_Parsing_Codes;./removeEmptyTrimmedReads.pl -e M01048 -r /Bioinformatics/NGS_raw_data/LIAI/MiSeq/HLA_Typing_Runs/Run55/trimmed > trimmed1.out
+
+cd /Bioinformatics/Users/zfu/HLA_Typing/src/HLA_Typing_Parsing_Codes;./removeEmptyTrimmedReads.pl -e M01048 -r /Bioinformatics/NGS_raw_data/LIAI/MiSeq/HLA_Typing_Runs/Run55_3loci/trimmed > trimmed.out
