@@ -21,15 +21,13 @@ Since most codes of HLATyphon were writen by python and perl and it was parallel
 - Portable Batch System
 - GNU parallel
 
+# Usage
+
+The user should modify the config.INI file according to their system setting and perform the following command:
+
+python HLATython.py config.INI
+
+
 # Contact
 
 For more information about HLATyphon please contact zfu at liai dot org.
-
-
-
-
-
-
-
-
-
